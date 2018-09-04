@@ -1,0 +1,11 @@
+/Users/amarshanand/shadowClient/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/amarshanand/shadowClient/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/amarshanand/shadowClient/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/amarshanand/shadowClient/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/amarshanand/shadowClient/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
