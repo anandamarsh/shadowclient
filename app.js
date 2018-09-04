@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 
 const { spawn } = require('child_process');
-const script = spawn('/Users/amarshanand/shadowClient/myscript.sh');
+const script = spawn(`${__dirname}/myscript.sh`);
 
 let done;
 

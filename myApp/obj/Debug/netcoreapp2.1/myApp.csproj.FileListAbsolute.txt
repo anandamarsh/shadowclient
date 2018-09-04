@@ -9,3 +9,14 @@
 /Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
 /Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.dll
 /Users/amarshanand/shadowClient/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
+/home/ubuntu/shadowclient/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/home/ubuntu/shadowclient/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/home/ubuntu/shadowclient/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/home/ubuntu/shadowclient/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/home/ubuntu/shadowclient/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/home/ubuntu/shadowclient/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/home/ubuntu/shadowclient/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/home/ubuntu/shadowclient/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/home/ubuntu/shadowclient/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/home/ubuntu/shadowclient/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/home/ubuntu/shadowclient/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
