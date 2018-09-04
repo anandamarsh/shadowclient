@@ -12,8 +12,8 @@ script.stdout.on('data', (stdout) => {
 });
 
 script.stderr.on('data', (stderr) => {
-    console.log(`stdout: ${stdout}`);
-    if(done) done(stdout);
+    console.log(`stderr: ${stderr}`);
+    if(done) done(stderr);
 });
 
 app.get('/', (req, res) => {
